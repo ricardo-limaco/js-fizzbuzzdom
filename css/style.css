@@ -1,0 +1,28 @@
+body {
+  background-color: #083b4c;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  padding: 30px 0;
+  font-size: 80px;
+  font-weight: 700;
+}
+
+._col-7{
+  width: calc(100% / 7);
+}
+
+._bg-blue {
+  background-color: #1389b2;
+}
+._bg-green {
+  background-color: #0bd6a1;
+}
+._bg-yellow {
+  background-color: #ffd166;
+}
+._bg-red {
+  background-color: #f0466f;
+}
